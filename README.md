@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A sleek and user-friendly Expense Tracker app to manage your income and expenses. Track your spending habits and stay on top of your finances with this intuitive app.
+A sleek and user-friendly Expense Tracker webpage to manage your income and expenses. Track your spending habits and stay on top of your finances with this intuitive webpage.
 
 ---
 
@@ -17,7 +17,7 @@ A sleek and user-friendly Expense Tracker app to manage your income and expenses
 
 - HTML5  
 - CSS3 (Custom Styled)  
-- JavaScript (Vanilla)  
+- JavaScript 
 - LocalStorage (for persistent data)  
 
 ---
@@ -25,7 +25,6 @@ A sleek and user-friendly Expense Tracker app to manage your income and expenses
 ## 📸 Screenshots
 [App Screenshot](C:\Users\Hp\Desktop\ExpenseTracker/screenshotofit.png)
 
----
 
 ## 🧑‍💻 How to Use
 
