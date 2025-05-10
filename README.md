@@ -23,7 +23,7 @@ A sleek and user-friendly Expense Tracker webpage to manage your income and expe
 ---
 
 ## 📸 Screenshots
-[Screenshot](C:\Users\Hp\Desktop\ExpenseTracker/screenshotofit.png)
+![Screenshot](https://github.com/SahilZone75/Modern-Calculator/blob/main/Calc%20Using%20JS/screenshot.png)
 
 
 ## 🧑‍💻 How to Use
