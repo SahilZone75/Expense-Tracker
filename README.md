@@ -23,16 +23,16 @@ A sleek and user-friendly Expense Tracker webpage to manage your income and expe
 ---
 
 ## 📸 Screenshots
-[App Screenshot](C:\Users\Hp\Desktop\ExpenseTracker/screenshotofit.png)
+[Screenshot](C:\Users\Hp\Desktop\ExpenseTracker/screenshotofit.png)
 
 
 ## 🧑‍💻 How to Use
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/your-username/Expense-Tracker.git
 
 # 2. Go into the project folder
-cd expense-tracker
+cd Expense-Tracker
 
 # 3. Open index.html in browser (with Live Server or manually)
